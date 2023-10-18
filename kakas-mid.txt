@@ -1,0 +1,4 @@
+nama = Muh. arsy mawardi mz
+kelas = B
+nim = 60900121050
+jurusan = sistem informasi
